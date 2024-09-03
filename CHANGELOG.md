@@ -31,7 +31,7 @@ Du vil opleve, at næste gang du logger ind på E-commerce Hub, bliver du tvunge
 
 Vi har gjort det muligt at se tjekke din data baseret på MoM, så du kan få et lynhurtigt overblik. Du kan selv vælge hvilken metric, du vil have dataen baseret på. Hvis du vil se, hvordan to metrics performer op mod hinanden, har du også mulighed for at vælge to forskellige i drop-down feltet. 
 
-// image
+![Improved charts](https://utfs.io/f/41d0f769-e51a-44b9-8aa2-9e65f6daa711-fnfaoj.png)
 
 ### Dato: Aug 22 2024
 ### Tool: E-commerce Hub
@@ -42,4 +42,4 @@ Det er vigtigt for os, at E-commerce Hub bliver et sted, som orienterer og visua
 
 Hvis du ikke længere ønsker at modtage disse mails, kan de deaktiveres på Indstillinger-siden, når du logger ind.
 
-// image
+![Improved charts](https://utfs.io/f/f33896f2-ae03-4db7-b777-0c48e16be0c1-i43ozi.png)
