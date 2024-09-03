@@ -7,7 +7,7 @@
 
 Vi har skiftet alle grafer på tværs af Conversio Hub. Graferne repræsenterer nu i højere grad den måde, som dataen bør blive præsenteret på. Sammenligningsperioden er nu visualiseret som en stiblet linje, som er nemmere at afkode og sætte i relation til den aktuelle periode, som fortsat er visualiseret med en solid lilla farve.
 
-// image
+![Improved charts](https://utfs.io/f/948d2850-96f2-4ef5-97ee-674ecede71cf-fgkna6.png)
 
 ### Dato: Aug 22 2024
 ### Tool: E-commerce Hub
