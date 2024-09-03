@@ -23,3 +23,23 @@ Du vil opleve, at næste gang du logger ind på E-commerce Hub, bliver du tvunge
 - Find ud af, om du skal allokere dit budget et andet sted
 
 // image
+
+### Dato: Aug 22 2024
+### Tool: E-commerce Hub
+
+## Se MoM (month-over-month) for alle datakilder
+
+Vi har gjort det muligt at se tjekke din data baseret på MoM, så du kan få et lynhurtigt overblik. Du kan selv vælge hvilken metric, du vil have dataen baseret på. Hvis du vil se, hvordan to metrics performer op mod hinanden, har du også mulighed for at vælge to forskellige i drop-down feltet. 
+
+// image
+
+### Dato: Aug 22 2024
+### Tool: E-commerce Hub
+
+## Ugentlig og månedlig email opdatering
+
+Det er vigtigt for os, at E-commerce Hub bliver et sted, som orienterer og visualiserer data på en simplere måde, end du er vant til fra de øvrige datakilder, du bruger. Vi har derfor lavet ugentlige og månedlige opdateringer, som bliver sendt til dig på den email, du har angivet i Conversio Hub. Her kan du hurtigt se og gennemskue, hvordan performance har været i perioden sammenlignet med forrige periode for hver af de datakilder, du har tilkoblet.
+
+Hvis du ikke længere ønsker at modtage disse mails, kan de deaktiveres på Indstillinger-siden, når du logger ind.
+
+// image
